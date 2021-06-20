@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple and merge.
 fafafafafafafafafffaf
 add merge
 add bug
+add bug2222222222222
