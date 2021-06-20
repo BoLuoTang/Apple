@@ -1,0 +1,11 @@
+README.md
+composer.json
+favicon.ico
+ThinkPHP/Conf/*
+ThinkPHP/Lang/*
+ThinkPHP/Mode/*
+ThinkPHP/Tpl/*
+ThinkPHP/ThinkPHP.php
+Application/Runtime/*
+Public/common/upload/*
+.idea/*
